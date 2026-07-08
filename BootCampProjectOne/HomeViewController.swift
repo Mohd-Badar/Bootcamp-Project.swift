@@ -29,7 +29,7 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
     override func viewDidLoad() {
         super.viewDidLoad()
         if let tabBarController = self.tabBarController {
-            tabBarController.tabBar.isUserInteractionEnabled = false
+            tabBarController.tabBar.isUserInteractionEnabled = true
         }
         homeTableView.delegate = self
         homeTableView.dataSource = self
@@ -38,15 +38,5 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
     override func viewDidLayoutSubviews() {
         homeTableView.contentInset = UIEdgeInsets(top: -view.safeAreaInsets.top - 25, left: 0, bottom: 0, right: 0)
     }
-
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }
