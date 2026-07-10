@@ -65,7 +65,7 @@ class SelectionViewController: UIViewController {
         loginBtn.setTitleColor(UIColor(hexString: "#004096"), for: .normal)
         loginBtn.titleLabel?.font = UIFont.systemFont(ofSize: 15, weight: .regular)
         
-        proceedBtn.setImage(UIImage(named: "proceed"), for: .normal)
+        proceedBtn.setImage(UIImage(named: "Group 183366"), for: .normal)
         
     
         }
