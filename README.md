@@ -1,20 +1,20 @@
 ## 📱 App Screenshots
 
 ### Splash Screen
-![Splash Screen](images/splashScreen.png)
+![Splash Screen](splashScreen.png)
 
 ### Login Screen
-![Login Screen](images/loginScreen.png)
+![Login Screen](loginScreen.png)
 
 
 ### Forgot Password Screen
-![Forgot Password](images/forgotPassword.png)
+![Forgot Password](forgotPassword.png)
 
 ### Home Screen
-![Home Screen](images/homeScreen.png)
+![Home Screen](homeScreen.png)
 
 ### Home Popup
-![Home Popup](images/homePopup.png)
+![Home Popup](homePopup.png)
 
 ### Profile Screen
-![Profile Screen](images/profileScreen.png)
+![Profile Screen](profileScreen.png)
