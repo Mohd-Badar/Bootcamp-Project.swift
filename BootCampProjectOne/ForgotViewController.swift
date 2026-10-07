@@ -1,9 +1,6 @@
-//
 //  ForgotViewController.swift
 //  BootCampProjectOne
-//
-//  Created by Apple System 22 on 06/07/26.
-//
+//  Created by Apple System 22 on 06/07/26
 
 import UIKit
 
